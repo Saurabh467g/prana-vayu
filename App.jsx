@@ -27,9 +27,9 @@ import {
   Filler
 } from 'chart.js';
 
-import Sidebar from './components/Sidebar';
-import DashboardMap, { getAQIColor, getAQICategory } from './components/DashboardMap';
-import './styles/styles.css';
+import Sidebar from './Sidebar';
+import DashboardMap, { getAQIColor, getAQICategory } from './DashboardMap';
+import './styles.css';
 
 // Register ChartJS modules
 ChartJS.register(
