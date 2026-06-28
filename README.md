@@ -9,7 +9,7 @@
 https://saurabh467g.github.io/prana-vayu/
 ```
 
-> **Note:** wait for 30-40 seconds after loading the site to fetch the data in real time.
+> **Note:** wait for 30-40 seconds after loading the site.
 
 ---
 
