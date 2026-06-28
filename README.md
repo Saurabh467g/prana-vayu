@@ -4,44 +4,12 @@
 
 ---
 
-## ⚡ Quick Start for Judges
-
-### Prerequisites
-| Tool | Version | Download |
-|------|---------|----------|
-| Python | 3.10+ | https://python.org |
-| Node.js | 18+ | https://nodejs.org |
-
----
-
-### 1. Start the Backend
-Open a terminal and run:
-```bash
-cd prana-vayu/backend
-pip install -r requirements.txt
-python run.py
+##. Open in Browser
 ```
-✅ Backend running at → **http://127.0.0.1:8000**
-
----
-
-### 2. Start the Frontend
-Open a **second terminal** and run:
-```bash
-cd prana-vayu/frontend
-npm install
-npm run dev
-```
-✅ Frontend running at → **http://localhost:5173**
-
----
-
-### 3. Open in Browser
-```
-http://localhost:5173
+https://saurabh467g.github.io/prana-vayu/
 ```
 
-> **Note:** Both terminals must stay open while using the app.
+> **Note:** wait for 30-40 seconds after loading the site to fetch the data in real time.
 
 ---
 
